@@ -6,7 +6,7 @@ title: Faezeh Khorram
 superuser: true
 
 # Role/position/tagline
-role: PhD Student of Computer Science, Marie-Curie Early Stage Researcher (Lowcomote project)
+role: PhD Student of Computer Science, Marie-Curie Early Stage Researcher ([Lowcomote project](https://www.lowcomote.eu/))
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,25 +14,25 @@ organizations:
   url: https://www.imt-atlantique.fr/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Model-Driven Engineering (MDE), Domain-Specific Languages(DSL) and Debugging and Testing of models.
+bio: My research interests include Model-Driven Engineering (MDE), Domain-Specific Languages (DSL) and Debugging and Testing of models.
 
 # Interests to show in About widget
 interests:
-- Model-Driven Engineering(MDE)
-- Domain-Specific Languages(DSL)
+- Model-Driven Engineering (MDE)
+- Domain-Specific Languages (DSL)
 - Debugging and Testing of models
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Computer Science
-    institution: IMT Atlantique, France
+    institution: [IMT Atlantique](https://www.imt-atlantique.fr/en), France
     year: 2019 - Present
   - course: MSc in Software Engineering
-    institution: Sharif University of Technology, Iran
+    institution: [Sharif University of Technology](http://www.en.sharif.edu/), Iran
     year: 2016 - 2019
   - course: BSc in Software Engineering
-    institution: Shahrood University of Technology, Iran
+    institution: [Shahrood University of Technology](https://shahroodut.ac.ir/en/), Iran
     year: 2012 - 2016
 
 # Social/Academic Networking
