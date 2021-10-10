@@ -80,4 +80,5 @@ in the [Laboratory of digital sciences of Nantes (LS2N)](https://www.ls2n.fr/?la
 
 Currently, I am working on advanced testing and debugging support for Executable Domain-Specific Languages (xDSL)
 under supervision of [Erwan Bousse](https://bousse-e.univ-nantes.io/), [Jean-Marie Mottu](http://pagesperso.ls2n.fr/~mottu-jm/welcome-en.html), and [Gerson Sunye](https://sunye.github.io/).
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
