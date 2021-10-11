@@ -42,8 +42,8 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
+links:
+- name: Preprint
  url: https://www.scitepress.org/Link.aspx?doi=10.5220/0010198801390146
 
 url_pdf: http://sharif.edu/~ramsin/index_files/Publications_PDF/Khorram_Taromirad_Ramsin_MODELSWARD_2021_SeGa4Biz.pdf

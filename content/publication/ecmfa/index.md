@@ -41,8 +41,8 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
+links:
+- name: Preprint
    url: http://www.jot.fm/contents/issue_2021_03/article6.html
 
 url_pdf: https://hal.archives-ouvertes.fr/hal-03265196/document
