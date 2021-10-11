@@ -28,8 +28,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In "*Proceedings of the 23rd ACM/IEEE International Conference on Model Driven Engineering Languages and Systems: Companion Proceedings*"
-publication_short: In "*MODELS-C*"
+publication: In *Proceedings of the 23rd ACM/IEEE International Conference on Model Driven Engineering Languages and Systems (Companion Proceedings)*
+publication_short: In *MODELS-C*
 
 abstract: Low-code is a growing development approach supported by many platforms. It fills the gap between business and IT by supporting the active involvement of non-technical domain experts, named Citizen Developer, in the application development lifecycle. 
 Low-code introduces new concepts and characteristics. However, it is not investigated yet in academic research to point out the existing challenges and opportunities when testing low-code software. This shortage of resources motivates this research to provide an explicit definition to this area that we call it Low-Code Testing.
