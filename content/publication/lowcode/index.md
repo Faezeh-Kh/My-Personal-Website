@@ -44,9 +44,9 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: Preprint
-   url: https://dl.acm.org/doi/10.1145/3417990.3420204
+   url: 'https://dl.acm.org/doi/10.1145/3417990.3420204'
 
-url_pdf: https://hal.archives-ouvertes.fr/hal-02946812/document
+url_pdf: 'https://hal.archives-ouvertes.fr/hal-02946812/document'
 url_code: ''
 url_dataset: ''
 url_poster: ''
