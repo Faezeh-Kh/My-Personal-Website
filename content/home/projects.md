@@ -27,8 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Testing of Models
+    tag: Testing of Models
+  - name: Serious Games
+    tag: Serious Games
   - name: Other
     tag: Demo
 
