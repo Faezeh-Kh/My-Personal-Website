@@ -26,14 +26,14 @@ interests:
 education:
   courses:
   - course: PhD in Computer Science
-    institution: [IMT Atlantique](https://www.imt-atlantique.fr/en), France
+    institution: IMT Atlantique, France
     year: '2019 - Present'
   - course: MSc in Software Engineering
-    institution: Massachusetts Institute of Technology
-    year: 2009
+    institution: Sharif University of Technology, Iran
+    year: '2016 - 2019'
   - course: BSc in Software Engineering
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    institution: Shahrood University of Technology, Iran
+    year: '2012 - 2016'
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
