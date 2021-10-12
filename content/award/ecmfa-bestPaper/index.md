@@ -1,6 +1,6 @@
 ---
 title: ECMFA 2021 Best Paper Award
-summary: for /publication/ecmfa
+summary: for [“Adapting TDL to Provide Testing Support for Executable DSLs”](/publication/ecmfa)
 
 date: "2021-06-23T00:00:00Z"
 
