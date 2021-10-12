@@ -25,15 +25,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Computer Science
-    institution: [IMT Atlantique](https://www.imt-atlantique.fr/en), France
-    year: '2019 - Present'
-  - course: MSc in Software Engineering
-    institution: [Sharif University of Technology](http://www.en.sharif.edu/), Iran
-    year: '2016 - 2019'
-  - course: BSc in Software Engineering
-    institution: [Shahrood University of Technology](https://shahroodut.ac.ir/en/), Iran
-    year: '2012 - 2016'
+  - course: PhD in Artificial Intelligence
+    institution: Stanford University
+    year: 2012
+  - course: MEng in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2009
+  - course: BSc in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
