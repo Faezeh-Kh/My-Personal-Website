@@ -6,13 +6,13 @@ tags:
 date: "2019-01-23T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://data.mendeley.com/datasets/5gmhm9cc6d/3
+external_link: ""
 
 image:
   caption: An overview of the modeling framework
   focal_point: Smart
 
-url_code: ""
+url_code: https://data.mendeley.com/datasets/5gmhm9cc6d/3
 url_pdf: http://sharif.edu/~ramsin/index_files/Publications_PDF/Khorram_Taromirad_Ramsin_MODELSWARD_2021_SeGa4Biz.pdf
 url_slides: ""
 url_video: ""

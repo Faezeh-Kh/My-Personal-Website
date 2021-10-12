@@ -6,13 +6,13 @@ tags:
 date: "2021-06-23T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://gitlab.univ-nantes.fr/naomod/faezeh-public/xtdl
+external_link: ""
 
 image:
   caption: A screenshot of the provided tool built on top of the GEMOC studio
   focal_point: Smart
 
-url_code: ""
+url_code: https://gitlab.univ-nantes.fr/naomod/faezeh-public/xtdl
 url_pdf: https://hal.archives-ouvertes.fr/hal-03265196/
 url_slides: ""
 url_video: ""
