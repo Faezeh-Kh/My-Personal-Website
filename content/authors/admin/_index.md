@@ -25,9 +25,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+  - course: PhD in Computer Science
+    institution: '[IMT Atlantique](https://www.imt-atlantique.fr/en), France'
+    year: '2019 - Present'
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
