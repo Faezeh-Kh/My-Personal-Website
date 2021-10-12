@@ -26,12 +26,12 @@ interests:
 education:
   courses:
   - course: PhD in Computer Science
-    institution: '[IMT Atlantique](https://www.imt-atlantique.fr/en), France'
+    institution: [IMT Atlantique](https://www.imt-atlantique.fr/en), France
     year: '2019 - Present'
-  - course: MEng in Artificial Intelligence
+  - course: MSc in Software Engineering
     institution: Massachusetts Institute of Technology
     year: 2009
-  - course: BSc in Artificial Intelligence
+  - course: BSc in Software Engineering
     institution: Massachusetts Institute of Technology
     year: 2008
 
