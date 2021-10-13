@@ -36,7 +36,7 @@ image:
 links:
 url_code: ""
 url_pdf: ""
-url_slides: content/slides/Mendix.pdf
+url_slides: uploads/Mendix.pdf
 url_video: ""
 
 # Markdown Slides (optional).
