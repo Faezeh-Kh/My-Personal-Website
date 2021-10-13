@@ -38,13 +38,14 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-# slides = ""
+ slides= ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-# projects = []
+projects:
+- example = []
 ---
 A five-minute video has also accompanied the paper which is accessible from [this link](https://drive.google.com/file/d/14AR0AgLO4jrJVgh2hxQJ86nHOK0tVCfB/view?usp=sharing).
