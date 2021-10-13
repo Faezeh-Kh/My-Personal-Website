@@ -1,18 +1,19 @@
 ---
-title: Student Volunteer in MODELS 2021
+title: Participation in JDOC 2021
 
-event: 24th International Conference on Model-Driven Engineering Languages and Systems
-event_url: https://conf.researchr.org/home/models-2021
+event: MathSTIC PhD Students Day (Journée des Doctorants (JDOC) MathSTIC)
+event_url: https://jdoc.univ-nantes.fr/
 
 location: Virtual
 
-summary: Participant in MODELS 2021 conference as a student volunteer
+summary: As a PhD student of MathSTIC doctoral department, I have presented my PhD research as a short paper titled "A Generic Testing Approach for Low-Code Development Platforms using TDL".
+A five-minute video has also accompanied the paper which is accessible from [this link](https://drive.google.com/file/d/14AR0AgLO4jrJVgh2hxQJ86nHOK0tVCfB/view?usp=sharing).
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-10-10"
-date_end: "2021-10-15"
-all_day: true
+date: "2021-05-28T09:00:00Z"
+date_end: "2021-05-28T17:00:00Z"
+all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -24,16 +25,12 @@ tags: []
 featured: false
 
 image:
-  caption: 'MODELS 2021 Poster'
+  caption: 'Group picture'
   focal_point: Right
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/modelsconf
 url_code: ""
-url_pdf: ""
+url_pdf: uploads/jdocPaper.pdf
 url_slides: ""
 url_video: ""
 
@@ -42,7 +39,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-# slides: example
+ slides= ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

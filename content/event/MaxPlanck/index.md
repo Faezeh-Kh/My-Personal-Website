@@ -1,21 +1,24 @@
 ---
-title: CMMRS 2018
+title: Participation in CMMRS 2018
 
 event: The Cornell, Maryland, Max Planck Pre-doctoral Research School 2018
 event_url: https://cmmrs2018.mpi-sws.org/
 
-location: Virtual
+location: Max Planck Institute for Software Systems
 address:
+  street: ""
   city: Saarbrücken
+  region: ""
+  postcode: ""
   country: Germany
 
-summary: Participation in CMMRS 2018
+summary: Participant in the Cornell, Maryland, Max Planck Pre-doctoral Research School 2018
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2018-08-07"
 date_end: "2018-08-12"
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"

@@ -1,17 +1,23 @@
 ---
-title: Student Volunteer in MODELS 2021
+title: Participation in Summer School
 
-event: 24th International Conference on Model-Driven Engineering Languages and Systems
-event_url: https://conf.researchr.org/home/models-2021
+event: International Business Analysis Summer School 
+event_url: https://english.spbstu.ru/education/programs/short-term-programs/summer-school/business-management/international-business-analysis/
 
-location: Virtual
+location: Peter the Great St.Petersburg Polytechnic University
+address:
+  street: ""
+  city: St.Petersburg
+  region: ""
+  postcode: ""
+  country: Russia
 
-summary: Participant in MODELS 2021 conference as a student volunteer
+summary: Participant in the International Business Analysis Summer School
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-10-10"
-date_end: "2021-10-15"
+date: "2017-08-07"
+date_end: "2017-08-12"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -24,14 +30,10 @@ tags: []
 featured: false
 
 image:
-  caption: 'MODELS 2021 Poster'
+  caption: 'Group picture'
   focal_point: Right
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/modelsconf
 url_code: ""
 url_pdf: ""
 url_slides: ""
