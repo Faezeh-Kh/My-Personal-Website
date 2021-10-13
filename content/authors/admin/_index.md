@@ -83,6 +83,6 @@ under supervision of [Erwan Bousse](https://bousse-e.univ-nantes.io/), [Jean-Mar
 
 Currently, I am a visiting researcher in the Department of Business Informatics – Software Engineering ([WIN-SE](https://se.jku.at/)) at [JKU University](https://www.jku.at/en) (Linz, Austria),
 working with [Antonio Garmendia](https://se.jku.at/antonio-garmendia/) and [Manuel Wimmer](https://se.jku.at/manuel-wimmer/).
-This is a secondment plan defined by the [Lowcomote project](https://www.lowcomote.eu/) to establish collaborations between people involved in the project.
+This is a secondment plan defined by the [Lowcomote](https://www.lowcomote.eu/) to establish collaborations between people involved in the project.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

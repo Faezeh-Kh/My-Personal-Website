@@ -73,5 +73,5 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: uploads/modelsward_presentation.pdf
+slides: content/slides/modelsward_presentation.pdf
 ---
