@@ -7,7 +7,6 @@ event_url: https://jdoc.univ-nantes.fr/
 location: Virtual
 
 summary: As a PhD student of MathSTIC doctoral department, I have presented my PhD research as a short paper titled "A Generic Testing Approach for Low-Code Development Platforms using TDL".
-A five-minute video has also accompanied the paper which is accessible from [this link](https://drive.google.com/file/d/14AR0AgLO4jrJVgh2hxQJ86nHOK0tVCfB/view?usp=sharing).
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -49,3 +48,4 @@ url_video: ""
 projects:
 - example = []
 ---
+A five-minute video has also accompanied the paper which is accessible from [this link](https://drive.google.com/file/d/14AR0AgLO4jrJVgh2hxQJ86nHOK0tVCfB/view?usp=sharing).
