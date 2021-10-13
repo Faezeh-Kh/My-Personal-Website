@@ -44,7 +44,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
- slides= uploads/Mendix.pdf
+slides: uploads/Mendix.pdf
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -52,5 +52,5 @@ url_video: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- example = []
+- example
 ---
