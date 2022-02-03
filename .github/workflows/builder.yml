@@ -21,6 +21,7 @@ jobs:
         GO_VERSION: 1.17.2
         HUGO_EXTENDED: true
         HUGO_VERSION: 0.88.1
+        TARGET_BRANCH: main
         TARGET_REPO: Faezeh-Kh/Faezeh-Kh.github.io
         TOKEN: ${{ secrets.TOKEN }}
         CNAME: Faezeh-Kh.github.io
