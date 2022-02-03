@@ -21,4 +21,4 @@ jobs:
         HUGO_VERSION: 0.88.1
         TARGET_REPO: Faezeh-Kh/Faezeh-Kh.github.io
         TOKEN: ${{ secrets.TOKEN }}
-        CNAME: www.jameswright.xyz
+        CNAME: Faezeh-Kh.github.io
