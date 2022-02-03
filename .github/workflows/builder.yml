@@ -18,8 +18,6 @@ jobs:
     - name: Hugo Deploy GitHub Pages
       uses: benmatselby/hugo-deploy-gh-pages@master
       env:
-        HUGO_VERSION: 0.88.1
-        HUGO_EXTENDED: true
         TARGET_REPO: Faezeh-Kh/Faezeh-Kh.github.io
         TOKEN: ${{ secrets.TOKEN }}
         CNAME: Faezeh-Kh.github.io
