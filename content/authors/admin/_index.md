@@ -79,10 +79,10 @@ For my research activity, I am a member of the [NaoMod](https://naomod.github.io
 in the [Laboratory of digital sciences of Nantes (LS2N)](https://www.ls2n.fr/?lang=en).
 
 As my PhD studies, I am working on advanced testing and debugging support for Executable Domain-Specific Languages (xDSL)
-under supervision of [Erwan Bousse](https://bousse-e.univ-nantes.io/), [Jean-Marie Mottu](http://pagesperso.ls2n.fr/~mottu-jm/welcome-en.html), and [Gerson Sunye](https://sunye.github.io/).
+under supervision of [Dr. Erwan Bousse](https://bousse-e.univ-nantes.io/), [Dr. Jean-Marie Mottu](http://pagesperso.ls2n.fr/~mottu-jm/welcome-en.html), and [Prof. Gerson Sunye](https://sunye.github.io/).
 
-Currently, I am a visiting researcher in the Department of Business Informatics – Software Engineering ([WIN-SE](https://se.jku.at/)) at [JKU University](https://www.jku.at/en) (Linz, Austria),
-working with [Antonio Garmendia](https://se.jku.at/antonio-garmendia/) and [Manuel Wimmer](https://se.jku.at/manuel-wimmer/).
+Currently, I am a visiting researcher in the [Miso](http://www.miso.es/) research group of [Universidad Autónoma de Madrid](https://www.uam.es/uam/inicio) (Madrid, Spain).
+My collaborative research is supervised by [Prof. Juan de Lara](http://arantxa.ii.uam.es/~jlara/) and [Prof. Esther Guerra](http://arantxa.ii.uam.es/~eguerra/).
 This is a secondment plan defined by the [Lowcomote](https://www.lowcomote.eu/) to establish collaborations between people involved in the project.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
