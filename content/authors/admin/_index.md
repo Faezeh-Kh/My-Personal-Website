@@ -14,13 +14,14 @@ organizations:
   url: https://www.imt-atlantique.fr/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Model-Driven Engineering (MDE), Domain-Specific Languages (DSL) and Debugging and Testing of models.
+bio: My research interests include Model-Driven Engineering (MDE), Domain-Specific Languages (DSL), Debugging and Testing of models, and software testing.
 
 # Interests to show in About widget
 interests:
 - Model-Driven Engineering (MDE)
 - Domain-Specific Languages (DSL)
 - Debugging and Testing of models
+- Software Testing
 
 # Education to show in About widget
 education:
