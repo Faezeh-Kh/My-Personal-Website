@@ -10,9 +10,9 @@ summary: Participant in MODELS 2021 conference as a student volunteer
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-10-10"
-date_end: "2021-10-15"
-all_day: true
+date: "2021-10-10T09:00:00Z"
+date_end: "2021-10-15T17:00:00Z"
+all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
