@@ -79,11 +79,7 @@ a Marie-Curie Early Stage Researcher ([ESR10](https://www.lowcomote.eu/esr/10/))
 For my research activity, I am a member of the [NaoMod](https://naomod.github.io/) group 
 in the [Laboratory of digital sciences of Nantes (LS2N)](https://www.ls2n.fr/?lang=en).
 
-As my PhD studies, I am working on advanced testing and debugging support for Executable Domain-Specific Languages (xDSL)
+As my PhD studies, I am working on a generic testing framework for Executable Domain-Specific Languages (xDSL)
 under supervision of [Dr. Erwan Bousse](https://bousse-e.univ-nantes.io/), [Dr. Jean-Marie Mottu](http://pagesperso.ls2n.fr/~mottu-jm/welcome-en.html), and [Prof. Gerson Sunye](https://sunye.github.io/).
-
-Currently, I am a visiting researcher in the [Miso](http://www.miso.es/) research group of [Universidad Autónoma de Madrid](https://www.uam.es/uam/inicio) (Madrid, Spain).
-My collaborative research is supervised by [Prof. Juan de Lara](http://arantxa.ii.uam.es/~jlara/) and [Prof. Esther Guerra](http://arantxa.ii.uam.es/~eguerra/).
-This is a secondment plan defined by the [Lowcomote](https://www.lowcomote.eu/) to establish collaborations between people involved in the project.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

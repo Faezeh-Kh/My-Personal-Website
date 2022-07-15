@@ -30,7 +30,7 @@ image:
 links:
 - icon: twitter
   icon_pack: fab
-  name: Follow
+  name: Conference Page
   url: https://twitter.com/modelsconf
 url_code: ""
 url_pdf: ""

@@ -38,7 +38,7 @@ abstract: Testing is one of the most prevalent and successful verification and v
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 links:
