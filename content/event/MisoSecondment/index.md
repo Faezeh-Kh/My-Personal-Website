@@ -14,8 +14,8 @@ address:
 summary: Research collaboration with Dr. Pablo Gómez-Abajo, Dr. Pablo C.Cañizares, Prof. Esther Guerra, and Prof. Juan de Lara in the context of Lowcomote European project. 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-02-20T09:00:00Z"
-date_end: "2021-05-20T17:00:00Z"
+date: "2022-02-20T09:00:00Z"
+date_end: "2022-05-20T17:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -57,4 +57,4 @@ My collaborative research was supervised by [Prof. Juan de Lara](http://arantxa.
 This is a secondment plan defined by the [Lowcomote](https://www.lowcomote.eu/) to establish collaborations between people involved in the project.
 
 Fortunately, the result of this collaboration will be published in the proceedings of ACM/IEEE 25th International Conference on Model Driven Engineering Languages and Systems (MODELS).
-You can access the preprint of the paper from [here](./publication/models22/)
+You can access the preprint of the paper from [here](https://faezeh-kh.github.io/publication/models22/).
