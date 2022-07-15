@@ -10,9 +10,9 @@ summary: Being involved in MODELS 2022 conference in several roles
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-10-23"
-date_end: "2022-10-28"
-all_day: true
+date: "2022-10-23T09:00:00Z"
+date_end: "2022-10-28T17:00:00Z"
+all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"

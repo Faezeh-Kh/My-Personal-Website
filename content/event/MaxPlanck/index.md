@@ -16,9 +16,9 @@ summary: Participant in the Cornell, Maryland, Max Planck Pre-doctoral Research 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2018-08-07"
-date_end: "2018-08-12"
-all_day: true
+date: "2018-08-07T09:00:00Z"
+date_end: "2018-08-12T17:00:00Z"
+all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
