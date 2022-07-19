@@ -29,7 +29,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Proceedings of the 9th International Conference on Model-Driven Engineering and Software Development*
-publication_short: In *MODELSWARD*
+publication_short: In *Proceedings of the 9th International Conference on Model-Driven Engineering and Software Development (MODELSWARD)*
 
 abstract: Organizations look for effective ways to teach their business processes to their employees. The application of serious games for teaching business processes is getting attraction recently. However, existing works are by large business-specific and few of them aim at teaching business processes in general, besides that the development of such games inherently suffers lack of precise and clear development approaches. This paper presents SeGa4Biz, a model-driven framework for serious game development for teaching business processes. Modeling supports different levels of abstraction and hence, increases user involvement throughout the development. SeGa4Biz particularly provides metamodels for creating Educational Serious Games (ESG) and Game-Aware Process (GAP) models, and automates considerable parts of the modeling and development activities, via model transformation. The effectiveness and applicability of SeGa4Biz is examined through a serious game development project in a software development company.
 

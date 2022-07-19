@@ -31,7 +31,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: Software and Systems Modeling
-publication_short: SoSym
+publication_short: Software and Systems Modeling (SoSym)
 
 abstract: Executable Domain-Specific Languages (xDSLs) allow the definition and the execution of behavioral models. Some behavioral models are reactive, meaning that during their execution, they accept external events and react by exposing events to the external environment. Since complex interaction may occur between the reactive model and the external environment, they should be tested as early as possible to ensure the correctness of their behavior. In this paper, we propose a set of generic testing facilities for reactive xDSLs using the standardized Test Description Language (TDL). Given a reactive xDSL, we generate a TDL library enabling the domain experts to write and run event-driven TDL test cases for conforming reactive models. To further support the domain expert, the approach integrates interactive debugging to help in localizing defects, and mutation analysis to measure the quality of test cases.We evaluate the level of genericity of the approach by successfully writing, executing, and analyzing 247 event-driven TDL test cases for 70 models conforming to two different reactive xDSLs.
 #summary: 

@@ -31,7 +31,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: Journal of Object Technology
-publication_short: JOT
+publication_short: Journal of Object Technology (JOT)
 
 abstract: Testing is one of the most prevalent and successful verification and validation (V&V) techniques used in the field of software engineering. While a large number of testing frameworks exist for general-purpose programming languages, providing testing facilities for any given executable Domain Specific Language (xDSL) remains a costly and challenging task. In this context, a standard such as the Test Description Language (TDL) appears as a suitable foundation for the definition of a generic testing approach for xDSLs. Unfortunately, TDL does not provide the domain-specific concepts required to write test cases for a given xDSL and does not include any model execution facilities. Our contribution addresses these limitations and thereby provides a fully generic testing approach for xDSLs based on TDL. Required TDL domain-specific concepts are automatically inferred from the xDSL definition through a model transformation into TDL. Model execution facilities are provided through the definition of a refined operational semantics for TDL. The application of our approach on 5 different xDSLs shows its generality and that it can successfully be used for testing executable models.# Summary. An optional shortened abstract.
 #summary: 
