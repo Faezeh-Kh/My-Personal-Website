@@ -52,7 +52,7 @@ featured: false
 #links:
 #- name: Preprint
 #  url: ''
-url_pdf: ''
+url_pdf: https://hal.archives-ouvertes.fr/hal-03745034
 url_code: ''
 url_dataset: ''
 url_poster: ''
