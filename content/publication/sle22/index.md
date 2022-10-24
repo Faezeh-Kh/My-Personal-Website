@@ -1,5 +1,5 @@
 ---
-title: "From Coverage Computation to Fault Localization: A Generic Framework for Domain-Specific Languages"
+title: "From Coverage Computation to Fault Localization, A Generic Framework for Domain-Specific Languages"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
