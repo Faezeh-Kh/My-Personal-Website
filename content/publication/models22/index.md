@@ -26,7 +26,7 @@ author_notes:
 - Universidad Autónoma de Madrid, Madrid, Spain
 
 date: "2022-07-13"
-doi: ""
+doi: "10.1145/3550355.3552451"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"

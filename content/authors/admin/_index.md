@@ -75,11 +75,11 @@ highlight_name: true
 ---
 
 I am a PhD student of Computer Science at [IMT Atlantique](https://www.imt-atlantique.fr/en) (Nantes, France) and 
-a Marie-Curie Early Stage Researcher ([ESR10](https://www.lowcomote.eu/esr/10/)) at [Lowcomote European project](https://www.lowcomote.eu/).
+a Marie-Curie Early Stage Researcher ([ESR10](https://www.lowcomote.eu/esr/10/)) at the [Lowcomote European project](https://www.lowcomote.eu/).
 For my research activity, I am a member of the [NaoMod](https://naomod.github.io/) group 
 in the [Laboratory of digital sciences of Nantes (LS2N)](https://www.ls2n.fr/?lang=en).
 
-As my PhD studies, I am working on a generic testing framework for Executable Domain-Specific Languages (xDSL)
+As my PhD studies, I am working on a generic testing framework for Executable Domain-Specific Languages (xDSLs)
 under supervision of [Dr. Erwan Bousse](https://bousse-e.univ-nantes.io/), [Dr. Jean-Marie Mottu](http://pagesperso.ls2n.fr/~mottu-jm/welcome-en.html), and [Prof. Gerson Sunye](https://sunye.github.io/).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
