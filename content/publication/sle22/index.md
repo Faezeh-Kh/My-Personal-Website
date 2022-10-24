@@ -1,5 +1,5 @@
 ---
-title: "From Coverage Computation to Fault Localization, A Generic Framework for Domain-Specific Languages"
+title: "From Coverage Computation to Fault Localization: A Generic Framework for Domain-Specific Languages"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -34,10 +34,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 15th ACM SIGPLAN International Conference on Software Language Engineering (SLE 2022)*
+publication: In *Proceedings of the 15th ACM SIGPLAN International Conference on Software Language Engineering*
 publication_short: In *Proceedings of the 15th ACM SIGPLAN International Conference on Software Language Engineering (SLE 2022)*
 
-abstract: 'To test a system efficiently, we need to know how good are the defined test cases and to localize detected faults in the system. Measuring test coverage can address both concerns as it is a popular metric for test quality evaluation and, at the same time, is the foundation of advanced fault localization techniques. However, for Domain-Specific Languages (DSLs), coverage metrics and associated tools are usually manually defined for each DSL representing costly, error-prone, and non-reusable work. To address this problem, we propose a generic coverage computation and fault localization framework for DSLs. Considering a test suite executed on a model conforming to a DSL, we compute a coverage matrix based on three ingredients: the DSL specification, the coverage rules, and the model's execution trace. Using the test execution result and the computed coverage matrix, the framework calculates the suspiciousness-based ranking of the model's elements based on existing spectrum-based techniques to help the user in localizing the model's faults. We provide a tool atop the Eclipse GEMOC Studio and evaluate our approach using four different DSLs, with 297 test cases for 21 models in total.'
+abstract: "To test a system efficiently, we need to know how good are the defined test cases and to localize detected faults in the system. Measuring test coverage can address both concerns as it is a popular metric for test quality evaluation and, at the same time, is the foundation of advanced fault localization techniques. However, for Domain-Specific Languages (DSLs), coverage metrics and associated tools are usually manually defined for each DSL representing costly, error-prone, and non-reusable work. To address this problem, we propose a generic coverage computation and fault localization framework for DSLs. Considering a test suite executed on a model conforming to a DSL, we compute a coverage matrix based on three ingredients: the DSL specification, the coverage rules, and the model's execution trace. Using the test execution result and the computed coverage matrix, the framework calculates the suspiciousness-based ranking of the model's elements based on existing spectrum-based techniques to help the user in localizing the model's faults. We provide a tool atop the Eclipse GEMOC Studio and evaluate our approach using four different DSLs, with 297 test cases for 21 models in total."
 #summary: 
 tags: []
 
