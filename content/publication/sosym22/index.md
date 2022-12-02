@@ -18,7 +18,7 @@ author_notes:
 - IMT Atlantique, Nantes Université, École Centrale Nantes, CNRS, LS2N, UMR 6004, F-44000 Nantes, France
 
 date: "2022-07-13"
-#doi: ""
+doi: "10.1007/s10270-022-01025-w"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
