@@ -6,7 +6,7 @@ title: Faezeh Khorram
 superuser: true
 
 # Role/position/tagline
-role: PhD Student of Computer Science, Marie-Curie Early Stage Researcher ([Lowcomote project](https://www.lowcomote.eu/))
+role: Ph.D. in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://www.imt-atlantique.fr/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Model-Driven Engineering (MDE), Domain-Specific Languages (DSL), Debugging and Testing of models, and software testing.
+bio: My research interests include Model-Driven Engineering (MDE), Domain-Specific Languages (DSL), Language Engineering, Debugging and Testing of models, and software testing.
 
 # Interests to show in About widget
 interests:
@@ -28,7 +28,7 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: IMT Atlantique, France
-    year: '2019 - Present'
+    year: '2019 - 2022'
   - course: MSc in Software Engineering
     institution: Sharif University of Technology, Iran
     year: '2016 - 2019'
@@ -74,12 +74,11 @@ email: ""
 highlight_name: true
 ---
 
-I am a PhD student of Computer Science at [IMT Atlantique](https://www.imt-atlantique.fr/en) (Nantes, France) and 
-a Marie-Curie Early Stage Researcher ([ESR10](https://www.lowcomote.eu/esr/10/)) at the [Lowcomote European project](https://www.lowcomote.eu/).
-For my research activity, I am a member of the [NaoMod](https://naomod.github.io/) group 
+I recently defended my Ph.D. in Computer Science at [IMT Atlantique](https://www.imt-atlantique.fr/en) (Nantes, France).
+I was a Marie-Curie Early Stage Researcher ([ESR10](https://www.lowcomote.eu/esr/10/)) at the [Lowcomote European project](https://www.lowcomote.eu/), and for my research activity, I was a member of the [NaoMod](https://naomod.github.io/) group 
 in the [Laboratory of digital sciences of Nantes (LS2N)](https://www.ls2n.fr/?lang=en).
 
-As my PhD studies, I am working on a generic testing framework for Executable Domain-Specific Languages (xDSLs)
+As my PhD studies, I worked on a generic testing framework for Executable Domain-Specific Languages (xDSLs)
 under supervision of [Dr. Erwan Bousse](https://bousse-e.univ-nantes.io/), [Dr. Jean-Marie Mottu](http://pagesperso.ls2n.fr/~mottu-jm/welcome-en.html), and [Prof. Gerson Sunye](https://sunye.github.io/).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
