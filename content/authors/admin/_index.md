@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:faezeh.khorram@imt-atlantique.fr'
+  link: 'mailto:faezeh.khorram@inria.fr'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/faezeh_khorram
