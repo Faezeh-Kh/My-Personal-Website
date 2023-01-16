@@ -20,17 +20,17 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: faezeh.khorram@imt-atlantique.fr
+email: faezeh.khorram@inria.fr
 address:
-  street: 4, Alfred Kastler street
-  city: Nantes
-  postcode: 44300
+  street: IRISA, 263 Av. Général Leclerc
+  city: Rennes
+  postcode: 35000
   country: France
   country_code: FR
 coordinates:
-  latitude: '47.28247342069272'
-  longitude: '-1.5207851991049561'
-directions: Enter Building B and take the stairs to Office 231 on Floor 2
+  latitude: '48.1165172486207'
+  longitude: '-1.6395584541432542'
+directions: Green level (3rd floor), building F, office 336
 contact_links:
   - icon: twitter
     icon_pack: fab
