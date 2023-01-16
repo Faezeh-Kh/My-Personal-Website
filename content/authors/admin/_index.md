@@ -10,8 +10,8 @@ role: Ph.D. in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: IMT Atlantique
-  url: https://www.imt-atlantique.fr/en
+- name: University of Rennes
+  url: https://www.univ-rennes.fr/en
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Model-Driven Engineering (MDE), Domain-Specific Languages (DSL), Language Engineering, Debugging and Testing of models, and software testing.
@@ -73,12 +73,11 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+I am a Postdoctoral researcher at the [University of Rennes](https://www.univ-rennes.fr/en) (Rennes, France) as a member of the [DiverSE team](https://www.diverse-team.fr/). 
+I am working with [Dr. Djamel Khelladi](http://people.irisa.fr/Djamel-Eddine.Khelladi/) and [Prof. Benoit Combemale](https://people.irisa.fr/Benoit.Combemale/) on the testing and co-evolution of Polyglot programs.
 
-I recently defended my Ph.D. in Computer Science at [IMT Atlantique](https://www.imt-atlantique.fr/en) (Nantes, France).
+I recently defended my Ph.D. thesis titled "A Testing Framework for Domain-Specific Languages" at [IMT Atlantique](https://www.imt-atlantique.fr/en) (Nantes, France).
 I was a Marie-Curie Early Stage Researcher ([ESR10](https://www.lowcomote.eu/esr/10/)) at the [Lowcomote European project](https://www.lowcomote.eu/), and for my research activity, I was a member of the [NaoMod](https://naomod.github.io/) group 
 in the [Laboratory of digital sciences of Nantes (LS2N)](https://www.ls2n.fr/?lang=en).
-
-As my PhD studies, I worked on a generic testing framework for Executable Domain-Specific Languages (xDSLs)
-under supervision of [Dr. Erwan Bousse](https://bousse-e.univ-nantes.io/), [Dr. Jean-Marie Mottu](http://pagesperso.ls2n.fr/~mottu-jm/welcome-en.html), and [Prof. Gerson Sunye](https://sunye.github.io/).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
