@@ -1,9 +1,9 @@
 ---
-title: XTDL
-summary: Executable Test Description Language for Executable DSLs (xDSLs)
+title: XTDL- A Testing Framework for Executable DSLs
+summary: Providing testing support for Executable Domain-Specific Languages (xDSLs) by adapting Test Description Language (TDL)
 tags:
 - Testing of Models
-date: "2021-06-23T00:00:00Z"
+date: "2023-01-16T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -12,7 +12,7 @@ image:
   caption: A screenshot of the provided tool built on top of the GEMOC studio
   focal_point: Smart
 
-url_code: https://gitlab.univ-nantes.fr/naomod/faezeh-public/xtdl
+url_code: https://github.com/lowcomote/Testing4DSLs
 url_pdf: https://hal.archives-ouvertes.fr/hal-03265196/
 url_slides: ""
 url_video: ""
@@ -24,6 +24,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-XTDL is a generic testing approach that provides testing facilities for executable DSLs.
-This project is indeed the implementation of my paper titled "Adapting TDL to Provide Testing Support for Executable DSLs".
-For theoretical information, please refer to the [paper](https://hal.archives-ouvertes.fr/hal-03265196/).
+XTDL is a generic testing framework for Executable Domain-Specific Languages (xDSL). It supports several features for testing executable models (the programs defined using the xDSLs), including test case definition, execution, quality evaluation, debugging, fault localization, and improvement. 
+The framework is the output of my Ph.D. thesis and for theoretical information, please refer to my [publications](https://faezeh-kh.github.io/publication/).
