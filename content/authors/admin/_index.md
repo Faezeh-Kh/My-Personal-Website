@@ -26,7 +26,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Computer Science
+  - course: PhD in Software Engineering
     institution: IMT Atlantique, France
     year: '2019 - 2022'
   - course: MSc in Software Engineering
