@@ -6,7 +6,7 @@ title: Faezeh Khorram
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. in Computer Science
+role: Ph.D. in Software Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
