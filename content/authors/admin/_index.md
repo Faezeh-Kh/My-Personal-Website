@@ -6,12 +6,12 @@ title: Faezeh Khorram
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. in Software Engineering
+role: Senior Research Engineer | PhD
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Rennes
-  url: https://www.univ-rennes.fr/en
+- name: HUAWEI Technologies France
+  url: https://www.huawei.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Model-Driven Engineering (MDE), Domain-Specific Languages (DSL), Language Engineering, Debugging and Testing of models, and software testing.
@@ -20,8 +20,8 @@ bio: My research interests include Model-Driven Engineering (MDE), Domain-Specif
 interests:
 - Model-Driven Engineering (MDE)
 - Domain-Specific Languages (DSL)
-- Debugging and Testing of models
-- Software Testing
+- Debugging and Testing of Models
+- Model-Based Verification
 
 # Education to show in About widget
 education:
@@ -73,7 +73,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I recently started a new position as a senior research engineer in the Modelling and Analysis research group of HUAWEI Technologies (Grenoble, France) where I work on Model-based verification and validation techniques.
+I recently started a new position as a senior research engineer in the Modelling and Analysis research group of HUAWEI Technologies (Grenoble, France) where I work on model-based verification and validation techniques.
 
 I got my Ph.D. in Software engineering from [IMT Atlantique](https://www.imt-atlantique.fr/en) (Nantes, France) for my thesis titled "A Testing Framework for Domain-Specific Languages".
 I was a Marie-Curie Early Stage Researcher ([ESR10](https://www.lowcomote.eu/esr/10/)) at the [Lowcomote European project](https://www.lowcomote.eu/), and for my research activity, I was a member of the [NaoMod](https://naomod.github.io/) group 
