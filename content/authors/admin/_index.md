@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:faezeh.khorram@huawei.com'
+  link: 'mailto:khorram.faezeh@gmail.com'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/faezeh_khorram
@@ -75,7 +75,7 @@ highlight_name: true
 ---
 I recently started a new position as a senior research engineer in the Modelling and Analysis research group of HUAWEI Technologies (Grenoble, France) where I work on model-based verification and validation techniques.
 
-I got my Ph.D. in Software engineering from [IMT Atlantique](https://www.imt-atlantique.fr/en) (Nantes, France) for my thesis titled "A Testing Framework for Domain-Specific Languages".
+I received my Ph.D. in Software engineering from [IMT Atlantique](https://www.imt-atlantique.fr/en) (Nantes, France) in 2022 for my thesis titled ["A Testing Framework for Executable Domain-Specific Languages"](https://theses.hal.science/tel-03977604/).
 I was a Marie-Curie Early Stage Researcher ([ESR10](https://www.lowcomote.eu/esr/10/)) at the [Lowcomote European project](https://www.lowcomote.eu/), and for my research activity, I was a member of the [NaoMod](https://naomod.github.io/) group 
 in the [Laboratory of digital sciences of Nantes (LS2N)](https://www.ls2n.fr/?lang=en).
 
