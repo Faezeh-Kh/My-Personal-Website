@@ -20,17 +20,17 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: faezeh.khorram@inria.fr
+email: faezeh.khorram@huawei.com
 address:
-  street: IRISA, 263 Av. Général Leclerc
-  city: Rennes
-  postcode: 35000
+  street: Huawei Technologies France, Rue Gustave Eiffel
+  city: Grenoble
+  postcode: 38000
   country: France
   country_code: FR
 coordinates:
-  latitude: '48.1165172486207'
-  longitude: '-1.6395584541432542'
-directions: Green level (3rd floor), building F, office 336
+  latitude: '45.18428058323782'
+  longitude: '5.703105809134378'
+directions: 2nd floor
 contact_links:
   - icon: twitter
     icon_pack: fab

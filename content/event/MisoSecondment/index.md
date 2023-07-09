@@ -56,5 +56,5 @@ I was a visiting researcher in the [Miso](http://www.miso.es/) research group of
 My collaborative research was supervised by [Prof. Juan de Lara](http://arantxa.ii.uam.es/~jlara/) and [Prof. Esther Guerra](http://arantxa.ii.uam.es/~eguerra/).
 This is a secondment plan defined by the [Lowcomote](https://www.lowcomote.eu/) to establish collaborations between people involved in the project.
 
-Fortunately, the result of this collaboration will be published in the proceedings of ACM/IEEE 25th International Conference on Model Driven Engineering Languages and Systems (MODELS).
+Fortunately, the result of this collaboration is published in the proceedings of ACM/IEEE 25th International Conference on Model Driven Engineering Languages and Systems (MODELS).
 You can access the preprint of the paper from [here](https://faezeh-kh.github.io/publication/models22/).

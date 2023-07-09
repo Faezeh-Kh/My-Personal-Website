@@ -55,3 +55,6 @@ projects:
 I was a visiting researcher in the Department of Business Informatics – Software Engineering ([WIN-SE](https://se.jku.at/)) at [JKU University](https://www.jku.at/en) (Linz, Austria),
 working with [Prof. Manuel Wimmer](https://se.jku.at/manuel-wimmer/) and [Dr. Antonio Garmendia](https://se.jku.at/antonio-garmendia/) .
 It was a secondment plan defined by the [Lowcomote](https://www.lowcomote.eu/) to establish collaborations between people involved in the project.
+
+Fortunately, the result of this collaboration is published in the proceedings of the 15th ACM SIGPLAN International Conference on Software Language Engineering (SLE 2022).
+You can access the preprint of the paper from [here](https://faezeh-kh.github.io/publication/sle22/).
