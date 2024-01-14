@@ -14,14 +14,14 @@ organizations:
   url: https://www.huawei.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Model-Driven Engineering (MDE), Domain-Specific Languages (DSL), Language Engineering, Debugging and Testing of models, and Software Testing.
+bio: My research interests include Model-Based Verification and Validation, Model-Driven Engineering (MDE), Domain-Specific Languages (DSL), Language Engineering, Debugging and Testing of models.
 
 # Interests to show in About widget
 interests:
+- Model-Based Verification and Validation
 - Model-Driven Engineering (MDE)
 - Domain-Specific Languages (DSL)
 - Debugging and Testing of Models
-- Model-Based Verification
 
 # Education to show in About widget
 education:
